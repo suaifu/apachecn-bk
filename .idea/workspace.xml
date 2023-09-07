@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc4f8177-6b0e-4585-92bd-0143d8bf0930" name="更改" comment="信息更新">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/apachecn-bk.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/docsify-apachecn-footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/asset/docsify-apachecn-footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/gitalk.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/asset/gitalk.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/15320085866078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/15320086214382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/15320086295268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/ad_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/alexa_201906.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/258ch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/aikeji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/aistart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/aiyoudao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/datawhale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/flyai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/gia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/hacpai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/hsury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/pycn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/seancheney.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/skypool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/tesra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar/zlib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/consult/qgroup_job.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/donate/starrank_github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/donate/starrank_org.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/apachecn_qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/apachecn_zsxq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/datawhale_qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/datawhale_wx_qr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/donate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/gzh_qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/huanghaiguang_qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/ibooker_zsxq_qr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/ibooker_zsxq_qr_l.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/ibooker_zsxq_qr_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/redstone_qr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/weixin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/zfb_wx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qr/zhifubao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skill/matplotlib_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skill/numpy_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/skill/pandas_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/social/15251587787438.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/github-search-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/monitor.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2V4Kqoequq7HmJtuJ6ysCEtPDIK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fushuaiguo/Documents/git_warehouse/apachecn-bk&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/fushuaiguo/Documents/git_warehouse/apachecn-bk/asset/gitalk/gitalk.css&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/asset" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/apachecn-bk/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$MAVEN_REPOSITORY$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 调试.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bc4f8177-6b0e-4585-92bd-0143d8bf0930" name="更改" comment="" />
+      <created>1694090105345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694090105345</updated>
+      <workItem from="1694090106683" duration="2643000" />
+      <workItem from="1694092808858" duration="772000" />
+    </task>
+    <task id="LOCAL-00001" summary="信息更新">
+      <created>1694092295411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694092295411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="信息更新">
+      <created>1694092644004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694092644004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="信息更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="信息更新" />
+  </component>
+</project>
