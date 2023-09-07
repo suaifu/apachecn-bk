@@ -99,7 +99,7 @@
 +   [新知](docs/general/README.md)
     +   [超星图书馆图书下载教程](docs/general/superstar-book-dl.md)
     +   [作曲作词编曲资料库 NPM、PYPI、DockerHub 备份](docs/general/music-dockerhub.md)
-
++   [公开课](docs/mooc.md)
 +   [开发者](docs/dev.md)
 +   [ACGN](https://acgn.flygon.net/)
 +   [ACGN](https://acgn.apachecn.org/)
