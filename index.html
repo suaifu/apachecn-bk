@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="asset/style.css">
   <link rel="stylesheet" href="asset/prism-darcula.css">
   <link rel="stylesheet" href="asset/sidebar.min.css">
-  <link rel="stylesheet" href="asset/gitalk/gitalk.css">
+  <link rel="stylesheet" href="asset/gitalk.css">
   <!--<link rel="stylesheet" href="asset/lxgw-wenkai.css">-->
   <style>
     .cover-main {margin: 0 !important}
@@ -91,8 +91,20 @@
         errorText: 'Error',
         successText: 'OK!',
       },
+      gitalk: {
+        clientID: '8bf005dd930e269fc5bb',
+        clientSecret: '0225bd9f28d69628e98af4f34672ce8289090070',
+        repo: 'home',
+        owner: 'apachecn',
+        admin: ['jiangzhonglian', 'wizardforcel'],
+        id: md5("/"),
+        distractionFreeMode: false,
+        container: 'gitalk-container',
+      },
     }
   </script>
+  <script src="asset/ga.min.js"></script>
+  <script src="asset/gitalk.min.js"></script>
   <script src="asset/docsify.min.js"></script>
   <script src="asset/search.min.js"></script>
   <script src="asset/prism-python.min.js"></script>
@@ -106,19 +118,5 @@
   <link rel="stylesheet" href="asset/docsify-quick-page.css">
   <script src="asset/docsify-quick-page.js"></script>
   <script src="asset/docsify-sidebar-collapse.min.js"></script>
-  <script src="asset/ga.min.js"></script>
-  <script src="asset/gitalk.min.js"></script>
-  <script src="asset/gitalk/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: '8bf005dd930e269fc5bb',
-      clientSecret: '0225bd9f28d69628e98af4f34672ce8289090070',
-      repo: 'home',
-      owner: 'apachecn',
-      admin: ['jiangzhonglian', 'wizardforcel'],
-      // facebook-like distraction free mode
-      distractionFreeMode: false
-    })
-  </script>
 </body>
 </html>
